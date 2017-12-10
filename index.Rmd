@@ -1,8 +1,0 @@
----
-title: "Nathan Taback, PhD"
-subtitle: "Statistical Sciences, University of Toronto"
----
-
-Welcome to <https://ntaback.github.io>
-
-My UofT page is <http://utstat.toronto.edu/~nathan>
