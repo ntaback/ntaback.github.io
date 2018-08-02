@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nathan Taback's Github.io page
 
 You can use the [editor on GitHub](https://github.com/ntaback/ntaback.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
